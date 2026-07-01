@@ -1,0 +1,61 @@
+{
+  "citations": [
+    "[getsupers.com](https://getsupers.com/)",
+    "[atoms.dev](https://atoms.dev/usecases/ai-website-builder)",
+    "[genspark.ai](https://www.genspark.ai/tools/ai-website-builder)",
+    "[github.com](https://github.com/jhd3197/AgentSite)",
+    "[techcrunch.com](https://techcrunch.com/)"
+  ],
+  "design_plan": "rng=42;AIDA=pass;hero_lines=3;max_width=1120;grid_dense=verified;labels=audited;buttons_contrast=AA",
+  "generated_at": "2026-07-01T12:02:10.233773+00:00",
+  "headline": "AI agent to build websites \u2014 from brief to live site",
+  "site_brief": {
+    "audience": "founders, operators, and creators who want an AI agent to build and publish websites",
+    "canonical_url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'AI agent to build websites', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI agent build websites",
+      "AI website builder agent",
+      "AI agent GitHub deploy website",
+      "computer use AI website generation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "ai-agent-build-websites",
+    "title": "AI agent to build websites",
+    "use_case_intent": "show how Super can research, generate, push to GitHub, publish, and iterate website assets with real computer-use workflows"
+  },
+  "summary": "An indexable use\u2011case page showing how Super acts as an AI agent to research, generate, push, publish, and iterate real websites using durable computer\u2011use workflows and a reusable computer\u2011use cache. Built for founders, operators, and creators who want sites shipped \u2014 not just drafts."
+}
